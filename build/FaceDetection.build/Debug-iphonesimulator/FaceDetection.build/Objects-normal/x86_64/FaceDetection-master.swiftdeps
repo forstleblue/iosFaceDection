@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "abcb2df692d519babcb1db34b7a2ae15"
+build_time: [539391260, 847881000]
+inputs:
+  "/Users/viktor/Documents/iOS/Mobile/FaceDetection-master/FaceDetection/FaceObscurationFilter.swift": !dirty [539391259, 0]
+  "/Users/viktor/Documents/iOS/Mobile/FaceDetection-master/FaceDetection/PixellationFilter.swift": [539390572, 0]
+  "/Users/viktor/Documents/iOS/Mobile/FaceDetection-master/FaceDetection/FeedViewController.swift": [539390572, 0]
+  "/Users/viktor/Documents/iOS/Mobile/FaceDetection-master/FaceDetection/AppDelegate.swift": [539390572, 0]
+  "/Users/viktor/Documents/iOS/Mobile/FaceDetection-master/FaceDetection/CoreImageAdditions.swift": [539390572, 0]
+  "/Users/viktor/Documents/iOS/Mobile/FaceDetection-master/FaceDetection/CaptureSessionController.swift": !dirty [539390572, 0]

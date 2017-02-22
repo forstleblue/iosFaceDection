@@ -1,0 +1,620 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FeedViewController"
+provides-nominal:
+- "C13FaceDetection18FeedViewController"
+provides-member:
+- ["C13FaceDetection18FeedViewController", ""]
+provides-dynamic-lookup:
+- "captureSessionController"
+- "captureSessionController"
+- "captureSessionController"
+- "captureSessionController"
+- "captureSessionController"
+- "viewDidDisappear"
+- "imageView"
+- "loadView"
+- "viewWillAppear"
+depends-top-level:
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "Error"
+- !private "print"
+- "Bool"
+- "CaptureSessionControllerDelegate"
+- "AVCaptureSession"
+- "CaptureSessionController"
+- !private "DispatchQueue"
+- "UIImageView"
+- "FeedViewController"
+- "CMSampleBuffer"
+- !private "UIImage"
+- !private "??"
+- !private "StringLiteralType"
+- !private "PixellationFilter"
+- "UIViewController"
+depends-member:
+- !private ["PSo44AVCaptureVideoDataOutputSampleBufferDelegate", "delegate"]
+- !private ["PSo44AVCaptureVideoDataOutputSampleBufferDelegate", "init"]
+- !private ["PSo44AVCaptureVideoDataOutputSampleBufferDelegate", "startCaptureSession"]
+- !private ["PSo44AVCaptureVideoDataOutputSampleBufferDelegate", "stopCaptureSession"]
+- !private ["Ps9AnyObject", "CaptureSessionController"]
+- !private ["Ps9AnyObject", "DispatchQueue"]
+- !private ["Ps9AnyObject", "PixellationFilter"]
+- !private ["Ps9AnyObject", "UIImage"]
+- !private ["Ps9AnyObject", "UIImageView"]
+- !private ["Ps9AnyObject", "async"]
+- ["Ps9AnyObject", "captureSessionController"]
+- ["Ps9AnyObject", "captureSessionController.storage"]
+- !private ["Ps9AnyObject", "delegate"]
+- !private ["Ps9AnyObject", "image"]
+- ["Ps9AnyObject", "imageView"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "loadView"]
+- !private ["Ps9AnyObject", "main"]
+- !private ["Ps9AnyObject", "print"]
+- !private ["Ps9AnyObject", "startCaptureSession"]
+- !private ["Ps9AnyObject", "stopCaptureSession"]
+- !private ["Ps9AnyObject", "view"]
+- ["Ps9AnyObject", "viewDidDisappear"]
+- ["Ps9AnyObject", "viewWillAppear"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["PSo15CALayerDelegate", "image"]
+- !private ["PSo15CALayerDelegate", "init"]
+- !private ["CSo7CIImage", "deinit"]
+- ["CSo14CMSampleBuffer", "deinit"]
+- !private ["Ps7CVarArg", "CaptureSessionController"]
+- !private ["Ps7CVarArg", "DispatchQueue"]
+- !private ["Ps7CVarArg", "PixellationFilter"]
+- !private ["Ps7CVarArg", "UIImage"]
+- !private ["Ps7CVarArg", "UIImageView"]
+- !private ["Ps7CVarArg", "async"]
+- ["Ps7CVarArg", "captureSessionController"]
+- ["Ps7CVarArg", "captureSessionController.storage"]
+- !private ["Ps7CVarArg", "delegate"]
+- !private ["Ps7CVarArg", "image"]
+- ["Ps7CVarArg", "imageView"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "loadView"]
+- !private ["Ps7CVarArg", "main"]
+- !private ["Ps7CVarArg", "print"]
+- !private ["Ps7CVarArg", "startCaptureSession"]
+- !private ["Ps7CVarArg", "stopCaptureSession"]
+- !private ["Ps7CVarArg", "view"]
+- ["Ps7CVarArg", "viewDidDisappear"]
+- ["Ps7CVarArg", "viewWillAppear"]
+- ["Ps7CVarArg", ""]
+- ["C13FaceDetection24CaptureSessionController", "deinit"]
+- !private ["C13FaceDetection24CaptureSessionController", "delegate"]
+- !private ["C13FaceDetection24CaptureSessionController", "init"]
+- !private ["C13FaceDetection24CaptureSessionController", "startCaptureSession"]
+- !private ["C13FaceDetection24CaptureSessionController", "stopCaptureSession"]
+- !private ["P13FaceDetection32CaptureSessionControllerDelegate", "CaptureSessionController"]
+- !private ["P13FaceDetection32CaptureSessionControllerDelegate", "DispatchQueue"]
+- !private ["P13FaceDetection32CaptureSessionControllerDelegate", "PixellationFilter"]
+- !private ["P13FaceDetection32CaptureSessionControllerDelegate", "UIImage"]
+- !private ["P13FaceDetection32CaptureSessionControllerDelegate", "UIImageView"]
+- ["P13FaceDetection32CaptureSessionControllerDelegate", "captureSessionController"]
+- !private ["P13FaceDetection32CaptureSessionControllerDelegate", "imageView"]
+- !private ["P13FaceDetection32CaptureSessionControllerDelegate", "print"]
+- !private ["P13FaceDetection32CaptureSessionControllerDelegate", "view"]
+- ["P13FaceDetection32CaptureSessionControllerDelegate", ""]
+- !private ["Vs9Character", "deinit"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "CaptureSessionController"]
+- !private ["Ps28CustomDebugStringConvertible", "DispatchQueue"]
+- !private ["Ps28CustomDebugStringConvertible", "PixellationFilter"]
+- !private ["Ps28CustomDebugStringConvertible", "UIImage"]
+- !private ["Ps28CustomDebugStringConvertible", "UIImageView"]
+- !private ["Ps28CustomDebugStringConvertible", "async"]
+- ["Ps28CustomDebugStringConvertible", "captureSessionController"]
+- ["Ps28CustomDebugStringConvertible", "captureSessionController.storage"]
+- !private ["Ps28CustomDebugStringConvertible", "delegate"]
+- !private ["Ps28CustomDebugStringConvertible", "image"]
+- ["Ps28CustomDebugStringConvertible", "imageView"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "loadView"]
+- !private ["Ps28CustomDebugStringConvertible", "main"]
+- !private ["Ps28CustomDebugStringConvertible", "print"]
+- !private ["Ps28CustomDebugStringConvertible", "startCaptureSession"]
+- !private ["Ps28CustomDebugStringConvertible", "stopCaptureSession"]
+- !private ["Ps28CustomDebugStringConvertible", "view"]
+- ["Ps28CustomDebugStringConvertible", "viewDidDisappear"]
+- ["Ps28CustomDebugStringConvertible", "viewWillAppear"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "CaptureSessionController"]
+- !private ["Ps23CustomStringConvertible", "DispatchQueue"]
+- !private ["Ps23CustomStringConvertible", "PixellationFilter"]
+- !private ["Ps23CustomStringConvertible", "UIImage"]
+- !private ["Ps23CustomStringConvertible", "UIImageView"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "async"]
+- ["Ps23CustomStringConvertible", "captureSessionController"]
+- ["Ps23CustomStringConvertible", "captureSessionController.storage"]
+- !private ["Ps23CustomStringConvertible", "delegate"]
+- !private ["Ps23CustomStringConvertible", "image"]
+- ["Ps23CustomStringConvertible", "imageView"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "loadView"]
+- !private ["Ps23CustomStringConvertible", "main"]
+- !private ["Ps23CustomStringConvertible", "print"]
+- !private ["Ps23CustomStringConvertible", "startCaptureSession"]
+- !private ["Ps23CustomStringConvertible", "stopCaptureSession"]
+- !private ["Ps23CustomStringConvertible", "view"]
+- ["Ps23CustomStringConvertible", "viewDidDisappear"]
+- ["Ps23CustomStringConvertible", "viewWillAppear"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["CSo14DispatchObject", "async"]
+- !private ["CSo14DispatchObject", "main"]
+- !private ["CSo13DispatchQueue", "async"]
+- ["CSo13DispatchQueue", "deinit"]
+- !private ["CSo13DispatchQueue", "main"]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "CaptureSessionController"]
+- !private ["Ps9Equatable", "DispatchQueue"]
+- !private ["Ps9Equatable", "PixellationFilter"]
+- !private ["Ps9Equatable", "UIImage"]
+- !private ["Ps9Equatable", "UIImageView"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "async"]
+- ["Ps9Equatable", "captureSessionController"]
+- ["Ps9Equatable", "captureSessionController.storage"]
+- !private ["Ps9Equatable", "delegate"]
+- !private ["Ps9Equatable", "image"]
+- ["Ps9Equatable", "imageView"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "loadView"]
+- !private ["Ps9Equatable", "main"]
+- !private ["Ps9Equatable", "print"]
+- !private ["Ps9Equatable", "startCaptureSession"]
+- !private ["Ps9Equatable", "stopCaptureSession"]
+- !private ["Ps9Equatable", "view"]
+- ["Ps9Equatable", "viewDidDisappear"]
+- ["Ps9Equatable", "viewWillAppear"]
+- ["Ps9Equatable", ""]
+- ["Ps5Error", "deinit"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["C13FaceDetection18FeedViewController", "AVCaptureSession"]
+- ["C13FaceDetection18FeedViewController", "Bool"]
+- ["C13FaceDetection18FeedViewController", "CMSampleBuffer"]
+- ["C13FaceDetection18FeedViewController", "CaptureSessionController"]
+- !private ["C13FaceDetection18FeedViewController", "DispatchQueue"]
+- ["C13FaceDetection18FeedViewController", "Error"]
+- !private ["C13FaceDetection18FeedViewController", "PixellationFilter"]
+- !private ["C13FaceDetection18FeedViewController", "UIImage"]
+- ["C13FaceDetection18FeedViewController", "UIImageView"]
+- ["C13FaceDetection18FeedViewController", "captureSessionController"]
+- !private ["C13FaceDetection18FeedViewController", "captureSessionController.storage"]
+- ["C13FaceDetection18FeedViewController", "deinit"]
+- ["C13FaceDetection18FeedViewController", "imageView"]
+- ["C13FaceDetection18FeedViewController", "init"]
+- ["C13FaceDetection18FeedViewController", "loadView"]
+- !private ["C13FaceDetection18FeedViewController", "print"]
+- !private ["C13FaceDetection18FeedViewController", "view"]
+- ["C13FaceDetection18FeedViewController", "viewDidDisappear"]
+- ["C13FaceDetection18FeedViewController", "viewWillAppear"]
+- !private ["P13FaceDetection6Filter", "init"]
+- !private ["P13FaceDetection6Filter", "inputImage"]
+- !private ["P13FaceDetection6Filter", "outputImage"]
+- !private ["Sf", "deinit"]
+- !private ["Ps8Hashable", "CaptureSessionController"]
+- !private ["Ps8Hashable", "DispatchQueue"]
+- !private ["Ps8Hashable", "PixellationFilter"]
+- !private ["Ps8Hashable", "UIImage"]
+- !private ["Ps8Hashable", "UIImageView"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "async"]
+- ["Ps8Hashable", "captureSessionController"]
+- ["Ps8Hashable", "captureSessionController.storage"]
+- !private ["Ps8Hashable", "delegate"]
+- !private ["Ps8Hashable", "image"]
+- ["Ps8Hashable", "imageView"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "loadView"]
+- !private ["Ps8Hashable", "main"]
+- !private ["Ps8Hashable", "print"]
+- !private ["Ps8Hashable", "startCaptureSession"]
+- !private ["Ps8Hashable", "stopCaptureSession"]
+- !private ["Ps8Hashable", "view"]
+- ["Ps8Hashable", "viewDidDisappear"]
+- ["Ps8Hashable", "viewWillAppear"]
+- ["Ps8Hashable", ""]
+- !private ["Si", "deinit"]
+- !private ["Vs5Int16", "deinit"]
+- !private ["Vs5Int32", "deinit"]
+- !private ["Vs5Int64", "deinit"]
+- !private ["Vs4Int8", "deinit"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "CaptureSessionController"]
+- !private ["PSo8NSCoding", "DispatchQueue"]
+- !private ["PSo8NSCoding", "PixellationFilter"]
+- !private ["PSo8NSCoding", "UIImage"]
+- !private ["PSo8NSCoding", "UIImageView"]
+- ["PSo8NSCoding", "captureSessionController"]
+- ["PSo8NSCoding", "captureSessionController.storage"]
+- !private ["PSo8NSCoding", "image"]
+- ["PSo8NSCoding", "imageView"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "loadView"]
+- !private ["PSo8NSCoding", "print"]
+- !private ["PSo8NSCoding", "view"]
+- ["PSo8NSCoding", "viewDidDisappear"]
+- ["PSo8NSCoding", "viewWillAppear"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "CaptureSessionController"]
+- !private ["PSo26NSExtensionRequestHandling", "DispatchQueue"]
+- !private ["PSo26NSExtensionRequestHandling", "PixellationFilter"]
+- !private ["PSo26NSExtensionRequestHandling", "UIImage"]
+- !private ["PSo26NSExtensionRequestHandling", "UIImageView"]
+- ["PSo26NSExtensionRequestHandling", "captureSessionController"]
+- ["PSo26NSExtensionRequestHandling", "captureSessionController.storage"]
+- ["PSo26NSExtensionRequestHandling", "imageView"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "loadView"]
+- !private ["PSo26NSExtensionRequestHandling", "print"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- ["PSo26NSExtensionRequestHandling", "viewDidDisappear"]
+- ["PSo26NSExtensionRequestHandling", "viewWillAppear"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "AVCaptureSession"]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "CMSampleBuffer"]
+- ["CSo8NSObject", "CaptureSessionController"]
+- !private ["CSo8NSObject", "DispatchQueue"]
+- ["CSo8NSObject", "Error"]
+- !private ["CSo8NSObject", "PixellationFilter"]
+- !private ["CSo8NSObject", "UIImage"]
+- ["CSo8NSObject", "UIImageView"]
+- !private ["CSo8NSObject", "async"]
+- ["CSo8NSObject", "captureSessionController"]
+- ["CSo8NSObject", "captureSessionController.storage"]
+- !private ["CSo8NSObject", "delegate"]
+- !private ["CSo8NSObject", "image"]
+- ["CSo8NSObject", "imageView"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "loadView"]
+- !private ["CSo8NSObject", "main"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "startCaptureSession"]
+- !private ["CSo8NSObject", "stopCaptureSession"]
+- !private ["CSo8NSObject", "view"]
+- ["CSo8NSObject", "viewDidDisappear"]
+- ["CSo8NSObject", "viewWillAppear"]
+- !private ["PSo16NSObjectProtocol", "CaptureSessionController"]
+- !private ["PSo16NSObjectProtocol", "DispatchQueue"]
+- !private ["PSo16NSObjectProtocol", "PixellationFilter"]
+- !private ["PSo16NSObjectProtocol", "UIImage"]
+- !private ["PSo16NSObjectProtocol", "UIImageView"]
+- !private ["PSo16NSObjectProtocol", "async"]
+- ["PSo16NSObjectProtocol", "captureSessionController"]
+- ["PSo16NSObjectProtocol", "captureSessionController.storage"]
+- !private ["PSo16NSObjectProtocol", "delegate"]
+- !private ["PSo16NSObjectProtocol", "image"]
+- ["PSo16NSObjectProtocol", "imageView"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "loadView"]
+- !private ["PSo16NSObjectProtocol", "main"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "startCaptureSession"]
+- !private ["PSo16NSObjectProtocol", "stopCaptureSession"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- ["PSo16NSObjectProtocol", "viewDidDisappear"]
+- ["PSo16NSObjectProtocol", "viewWillAppear"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["CSo9OS_object", "async"]
+- !private ["CSo9OS_object", "main"]
+- ["Sq", "deinit"]
+- !private ["V13FaceDetection17PixellationFilter", "deinit"]
+- !private ["V13FaceDetection17PixellationFilter", "init"]
+- !private ["V13FaceDetection17PixellationFilter", "inputImage"]
+- !private ["V13FaceDetection17PixellationFilter", "outputImage"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "image"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo12UIAppearance", "image"]
+- !private ["PSo12UIAppearance", "init"]
+- !private ["PSo21UIAppearanceContainer", "CaptureSessionController"]
+- !private ["PSo21UIAppearanceContainer", "DispatchQueue"]
+- !private ["PSo21UIAppearanceContainer", "PixellationFilter"]
+- !private ["PSo21UIAppearanceContainer", "UIImage"]
+- !private ["PSo21UIAppearanceContainer", "UIImageView"]
+- ["PSo21UIAppearanceContainer", "captureSessionController"]
+- ["PSo21UIAppearanceContainer", "captureSessionController.storage"]
+- !private ["PSo21UIAppearanceContainer", "image"]
+- ["PSo21UIAppearanceContainer", "imageView"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "loadView"]
+- !private ["PSo21UIAppearanceContainer", "print"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- ["PSo21UIAppearanceContainer", "viewDidDisappear"]
+- ["PSo21UIAppearanceContainer", "viewWillAppear"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "CaptureSessionController"]
+- !private ["PSo18UIContentContainer", "DispatchQueue"]
+- !private ["PSo18UIContentContainer", "PixellationFilter"]
+- !private ["PSo18UIContentContainer", "UIImage"]
+- !private ["PSo18UIContentContainer", "UIImageView"]
+- ["PSo18UIContentContainer", "captureSessionController"]
+- ["PSo18UIContentContainer", "captureSessionController.storage"]
+- ["PSo18UIContentContainer", "imageView"]
+- !private ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "loadView"]
+- !private ["PSo18UIContentContainer", "print"]
+- !private ["PSo18UIContentContainer", "view"]
+- ["PSo18UIContentContainer", "viewDidDisappear"]
+- ["PSo18UIContentContainer", "viewWillAppear"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "image"]
+- !private ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo13UIDynamicItem", "image"]
+- !private ["PSo13UIDynamicItem", "init"]
+- !private ["PSo18UIFocusEnvironment", "CaptureSessionController"]
+- !private ["PSo18UIFocusEnvironment", "DispatchQueue"]
+- !private ["PSo18UIFocusEnvironment", "PixellationFilter"]
+- !private ["PSo18UIFocusEnvironment", "UIImage"]
+- !private ["PSo18UIFocusEnvironment", "UIImageView"]
+- ["PSo18UIFocusEnvironment", "captureSessionController"]
+- ["PSo18UIFocusEnvironment", "captureSessionController.storage"]
+- !private ["PSo18UIFocusEnvironment", "image"]
+- ["PSo18UIFocusEnvironment", "imageView"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "loadView"]
+- !private ["PSo18UIFocusEnvironment", "print"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- ["PSo18UIFocusEnvironment", "viewDidDisappear"]
+- ["PSo18UIFocusEnvironment", "viewWillAppear"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "image"]
+- !private ["PSo11UIFocusItem", "init"]
+- !private ["CSo7UIImage", "deinit"]
+- !private ["CSo7UIImage", "init"]
+- ["CSo11UIImageView", "deinit"]
+- !private ["CSo11UIImageView", "image"]
+- !private ["CSo11UIImageView", "init"]
+- ["CSo11UIResponder", "AVCaptureSession"]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "CMSampleBuffer"]
+- ["CSo11UIResponder", "CaptureSessionController"]
+- !private ["CSo11UIResponder", "DispatchQueue"]
+- ["CSo11UIResponder", "Error"]
+- !private ["CSo11UIResponder", "PixellationFilter"]
+- !private ["CSo11UIResponder", "UIImage"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "captureSessionController"]
+- ["CSo11UIResponder", "captureSessionController.storage"]
+- !private ["CSo11UIResponder", "image"]
+- ["CSo11UIResponder", "imageView"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "loadView"]
+- !private ["CSo11UIResponder", "print"]
+- !private ["CSo11UIResponder", "view"]
+- ["CSo11UIResponder", "viewDidDisappear"]
+- ["CSo11UIResponder", "viewWillAppear"]
+- !private ["PSo30UIResponderStandardEditActions", "CaptureSessionController"]
+- !private ["PSo30UIResponderStandardEditActions", "DispatchQueue"]
+- !private ["PSo30UIResponderStandardEditActions", "PixellationFilter"]
+- !private ["PSo30UIResponderStandardEditActions", "UIImage"]
+- !private ["PSo30UIResponderStandardEditActions", "UIImageView"]
+- ["PSo30UIResponderStandardEditActions", "captureSessionController"]
+- ["PSo30UIResponderStandardEditActions", "captureSessionController.storage"]
+- !private ["PSo30UIResponderStandardEditActions", "image"]
+- ["PSo30UIResponderStandardEditActions", "imageView"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "loadView"]
+- !private ["PSo30UIResponderStandardEditActions", "print"]
+- !private ["PSo30UIResponderStandardEditActions", "view"]
+- ["PSo30UIResponderStandardEditActions", "viewDidDisappear"]
+- ["PSo30UIResponderStandardEditActions", "viewWillAppear"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo16UIStateRestoring", "CaptureSessionController"]
+- !private ["PSo16UIStateRestoring", "DispatchQueue"]
+- !private ["PSo16UIStateRestoring", "PixellationFilter"]
+- !private ["PSo16UIStateRestoring", "UIImage"]
+- !private ["PSo16UIStateRestoring", "UIImageView"]
+- ["PSo16UIStateRestoring", "captureSessionController"]
+- ["PSo16UIStateRestoring", "captureSessionController.storage"]
+- ["PSo16UIStateRestoring", "imageView"]
+- !private ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "loadView"]
+- !private ["PSo16UIStateRestoring", "print"]
+- !private ["PSo16UIStateRestoring", "view"]
+- ["PSo16UIStateRestoring", "viewDidDisappear"]
+- ["PSo16UIStateRestoring", "viewWillAppear"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "CaptureSessionController"]
+- !private ["PSo18UITraitEnvironment", "DispatchQueue"]
+- !private ["PSo18UITraitEnvironment", "PixellationFilter"]
+- !private ["PSo18UITraitEnvironment", "UIImage"]
+- !private ["PSo18UITraitEnvironment", "UIImageView"]
+- ["PSo18UITraitEnvironment", "captureSessionController"]
+- ["PSo18UITraitEnvironment", "captureSessionController.storage"]
+- !private ["PSo18UITraitEnvironment", "image"]
+- ["PSo18UITraitEnvironment", "imageView"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "loadView"]
+- !private ["PSo18UITraitEnvironment", "print"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- ["PSo18UITraitEnvironment", "viewDidDisappear"]
+- ["PSo18UITraitEnvironment", "viewWillAppear"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "image"]
+- !private ["CSo6UIView", "init"]
+- ["CSo16UIViewController", "AVCaptureSession"]
+- ["CSo16UIViewController", "Bool"]
+- ["CSo16UIViewController", "CMSampleBuffer"]
+- ["CSo16UIViewController", "CaptureSessionController"]
+- !private ["CSo16UIViewController", "DispatchQueue"]
+- ["CSo16UIViewController", "Error"]
+- !private ["CSo16UIViewController", "PixellationFilter"]
+- !private ["CSo16UIViewController", "UIImage"]
+- ["CSo16UIViewController", "UIImageView"]
+- ["CSo16UIViewController", "captureSessionController"]
+- ["CSo16UIViewController", "captureSessionController.storage"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "imageView"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "loadView"]
+- !private ["CSo16UIViewController", "print"]
+- !private ["CSo16UIViewController", "view"]
+- ["CSo16UIViewController", "viewDidDisappear"]
+- ["CSo16UIViewController", "viewWillAppear"]
+- ["CSo16UIViewController", ""]
+- !private ["Su", "deinit"]
+- !private ["Vs6UInt16", "deinit"]
+- !private ["Vs6UInt32", "deinit"]
+- !private ["Vs6UInt64", "deinit"]
+- !private ["Vs5UInt8", "deinit"]
+- !private ["Sc", "deinit"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "image"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps26_ExpressibleByImageLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "CaptureSessionController"]
+- !private ["Ps9_Hashable", "DispatchQueue"]
+- !private ["Ps9_Hashable", "PixellationFilter"]
+- !private ["Ps9_Hashable", "UIImage"]
+- !private ["Ps9_Hashable", "UIImageView"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "async"]
+- ["Ps9_Hashable", "captureSessionController"]
+- ["Ps9_Hashable", "captureSessionController.storage"]
+- !private ["Ps9_Hashable", "delegate"]
+- !private ["Ps9_Hashable", "image"]
+- ["Ps9_Hashable", "imageView"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "loadView"]
+- !private ["Ps9_Hashable", "main"]
+- !private ["Ps9_Hashable", "print"]
+- !private ["Ps9_Hashable", "startCaptureSession"]
+- !private ["Ps9_Hashable", "stopCaptureSession"]
+- !private ["Ps9_Hashable", "view"]
+- ["Ps9_Hashable", "viewDidDisappear"]
+- ["Ps9_Hashable", "viewWillAppear"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- !private "PSo44AVCaptureVideoDataOutputSampleBufferDelegate"
+- "Ps9AnyObject"
+- "Sb"
+- !private "PSo15CALayerDelegate"
+- !private "CSo7CIImage"
+- "CSo14CMSampleBuffer"
+- "Ps7CVarArg"
+- "C13FaceDetection24CaptureSessionController"
+- "P13FaceDetection32CaptureSessionControllerDelegate"
+- !private "Vs9Character"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "CSo14DispatchObject"
+- "CSo13DispatchQueue"
+- !private "Sd"
+- "Ps9Equatable"
+- "Ps5Error"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "C13FaceDetection18FeedViewController"
+- !private "P13FaceDetection6Filter"
+- !private "Sf"
+- "Ps8Hashable"
+- !private "Si"
+- !private "Vs5Int16"
+- !private "Vs5Int32"
+- !private "Vs5Int64"
+- !private "Vs4Int8"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "CSo9OS_object"
+- "Sq"
+- !private "V13FaceDetection17PixellationFilter"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- !private "CSo7UIImage"
+- "CSo11UIImageView"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "Su"
+- !private "Vs6UInt16"
+- !private "Vs6UInt32"
+- !private "Vs6UInt64"
+- !private "Vs5UInt8"
+- !private "Sc"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps26_ExpressibleByImageLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+interface-hash: "000ab3bcd496fbfaa704f6e457646055"
