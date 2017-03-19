@@ -95,3 +95,11 @@ class FaceObscurationFilter : CIFilter {
         return blend.outputImage
     }
 }
+
+// Create a single blended image made up of the pixellated image, the mask image, and the original image.
+        // We want sections of the pixellated image to be removed according to the mask image, to reveal
+        // the original image in the background.
+        // We use the CIBlendWithMask filter for this, and set the background image as the original image,
+        // the input image (the one to be masked) as the pixellated image, and the mask image as, well, the mask.
+
+
